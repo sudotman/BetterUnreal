@@ -2,11 +2,11 @@
 A collection of modifications/additions (scripts/prefabs) which enhance [for me] the overall flow of using the Unity Engine.
 
 ## Purpose
-There are some key features pan other game engines that seem to be lacking in Unity and this is a package to resolve those problems.
+Give access to multiple basic/special needs to prevent redundancy.
 <br>
 
 ## Installation
-You can download the latest ```.unitypackage``` through [Releases](https://github.com/sudotman/BetterUnity/releases/) and double-click to import it.
+You can download relevant files and directly import them inside your project.
 
 
 # Contents
