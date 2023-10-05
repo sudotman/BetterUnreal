@@ -76,6 +76,9 @@ FString CalculateCRC16String(FString Input); //if you want a checksum not for a 
 ## 2. Helpful Blueprints
 
 ### 2.1 Calculate Object Left/Right
-!["2.1 - Calculate Left/Right"](https://github.com/sudotman/betterunreal/blob/main/demos/BetterUnreal/FileHandling.png)
+This calculates if an object is to the left of the vector or the right using simple vector calculations
+!["2.1 - Calculate Left/Right"](https://github.com/sudotman/BetterUnreal/blob/1e25e17bf990661add85bbc4e5f291daecf955a7/Blueprints/CalculateObjectLeftOrRight.png)
+
+
 
 
